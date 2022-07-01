@@ -1,0 +1,15 @@
+varnode=20:
+Least effective sample length on IPCTC: 100
+Least effective sample length on TRCTC: 2000
+Least effective sample length on LNCTC: 100
+Least effective sample length on Jitterbug: 100
+varnode=40:
+Least effective sample length on IPCTC: 100
+Least effective sample length on TRCTC: 2000
+Least effective sample length on LNCTC: 100
+Least effective sample length on Jitterbug: 100
+varnode=60:
+Least effective sample length on IPCTC: 100
+Least effective sample length on TRCTC: 2000
+Least effective sample length on LNCTC: 100
+Least effective sample length on Jitterbug: 100
