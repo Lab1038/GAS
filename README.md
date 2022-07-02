@@ -46,6 +46,6 @@ The seven python files are:
 
 * `vapattern.py` This file implements the variation feature extracting technique. The detailed information of this technique is introduced in our paper.
 
-## Use Guide
+## Usage
 
 You can just run the `sample_sensitivity_evaluation` method in `experiment.py` to launch the evaluation. This method prints the AUC score of `GAS` on four experimental covert channels under different sample sizes.
